@@ -1,4 +1,4 @@
-# Web Technology Laboratory-  20CS68L 
+# Web Technology Laboratory- JSSSTU
 
 ## List of Programs
 
